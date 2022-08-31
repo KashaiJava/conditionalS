@@ -73,6 +73,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Неккоректный месяц " + mounthNumber);
+
         }
     }
 }
